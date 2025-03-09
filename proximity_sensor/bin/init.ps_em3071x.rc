@@ -1,0 +1,3 @@
+# Load the ps_em3071x driver
+on late-init
+    insmod /odm/lib/modules/ps_em3071x.ko
